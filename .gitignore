@@ -1,0 +1,22 @@
+#PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+.env/
+
+#VIM
+[._]s[a-w][a-z]
+[._]*.s[a-w][a-z]
+
+#EXCEL - WINDOWS
+~$*.xls*
+*.xlk
+
+#EXCEL - LIBREOFFICE
+.~lock.*#
+
+*.csv
+*.ods
+*.xlsx
+*.txt
+*.log
